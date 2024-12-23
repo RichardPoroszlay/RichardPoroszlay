@@ -1,1 +1,1 @@
-![appleHello!](assets/appleHello.gif)
+![appleHello!](assets/bw_hello.gif)
